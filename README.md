@@ -2,7 +2,7 @@
 
 # Welcome to the Wavecon 5G Analysis!
 
-In this Readme, I, Saurav Kumar, a junior data analyst, provide a concise overview of the dataset and the task undertaken as part of my mission. My mission is twofold:
+In this Readme, I, Saurav Kumar, a Data analyst, provide a concise overview of the dataset and the task undertaken as part of my mission. My mission is twofold:
 
 1. Create a comprehensive comparison report of key performance indicators (KPIs) between the pre and post-launch periods of Wavecon's 5G services, aiding the top-level management in making informed decisions to recover active user rates and enhance other vital metrics.
 
