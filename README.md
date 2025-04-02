@@ -2,7 +2,7 @@
 
 # Welcome to the Wavecon 5G Analysis!
 
-In this Readme, I, Manisha Deepshikha Patra, a junior data analyst, provide a concise overview of the dataset and the task undertaken as part of my mission. My mission is twofold:
+In this Readme, I, Saurav Kumar, a junior data analyst, provide a concise overview of the dataset and the task undertaken as part of my mission. My mission is twofold:
 
 1. Create a comprehensive comparison report of key performance indicators (KPIs) between the pre and post-launch periods of Wavecon's 5G services, aiding the top-level management in making informed decisions to recover active user rates and enhance other vital metrics.
 
@@ -96,11 +96,12 @@ Join us on this exhilarating voyage through the dynamic 5G landscape, where data
 Join me on this data-driven journey towards a brighter future for Wavecon Telecom! 🚀
 
 # MAIN_KPI
-![W1](https://github.com/Deepshikhagithub/Wavecon-Telecom-Insights-Internship/assets/121179319/194c5619-8b79-49eb-8861-9a999d6064c4)
+![W1](https://github.com/user-attachments/assets/dfbbefc3-7cf7-40e5-bd7c-138333e69d9e)
 
 # MARKET ANALYSIS
-![W1](https://github.com/Deepshikhagithub/Wavecon-Telecom-Insights-Internship/assets/121179319/f293e469-59e5-4835-9740-630b2279891c)
+![W1](https://github.com/user-attachments/assets/258eb0b5-28ff-4a27-9dc9-25e094de1a81)
 
 #PLAN ANALYSIS
-![W3](https://github.com/Deepshikhagithub/Wavecon-Telecom-Insights-Internship/assets/121179319/382026e4-b91b-4eaf-a9ac-11535f0bb28c)
+![W3](https://github.com/user-attachments/assets/2708a624-4bee-4885-b827-2e94501ab360)
+
 
