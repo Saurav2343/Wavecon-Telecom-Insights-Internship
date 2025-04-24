@@ -1,4 +1,4 @@
-# Wavecon-Telecom-Insights-Internship
+# Wavecon-Telecom-Insights
 
 # Welcome to the Wavecon 5G Analysis!
 
